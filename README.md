@@ -1,8 +1,11 @@
-<h2>Hello 👋</h2>
+<h2>Hello, I'm Krzysztof 👋</h2>
 
-I'm a software developer, located in Wrocław, Poland 🇵🇱
+- 🇵🇱 Software engineer based in Wroclaw
+- 📱 React Native, Compose Multiplatform, SwiftUI
+- 📈 TypeScript, Kotlin, Swift
 
-I specialize in mobile apps development, leveraging frameworks such as **React Native**, **Jetpack Compose** and sometimes **SwiftUI**.
-Also exploring cross-platform solutions, such as **Kotlin Multiplatform**.
+<br/>
+<br/>
+Blog: https://www.kborowy.com
 
-![Krzysztof's github stats](https://github-readme-stats.vercel.app/api?username=krizzu&theme=cobalt&show_icons=true&count_private=true)
+Bsky: https://bsky.app/profile/kborowy.com
